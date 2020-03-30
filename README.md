@@ -1,16 +1,7 @@
 # car_details
 
-A new Flutter project.
+Part of a Flutter application for University coursework. Manages cars and their details and connects to the https://dvlasearch.co.uk/ API (free tier)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app portion will only work with numberplates begining with either MT09 or FH51, as per the demo API account restrictions
